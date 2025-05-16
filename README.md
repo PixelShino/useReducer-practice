@@ -17,7 +17,7 @@
 
 ## Демо
 
-Демо-версия доступна по адресу: [https://PixelShino.github.io/useReducer-practice](https://username.github.io/useReducerPractice)
+Демо-версия доступна по адресу: [https://pixelshino.github.io/useReducer-practice/](https://pixelshino.github.io/useReducer-practice/)
 
 <details>
 <summary><b>English Version</b></summary>
