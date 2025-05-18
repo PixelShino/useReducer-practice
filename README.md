@@ -1,6 +1,13 @@
 # Виджет даты с useReducer
+![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/Vite-5.4.9-646CFF?style=flat-square&logo=vite)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3)
 
 Интерактивный виджет для работы с датами, созданный с использованием хука useReducer в React.
+
+![Image](https://github.com/user-attachments/assets/7f6b4d27-0187-42a6-8e0b-c2280aa516a9)
+
+![Image](https://github.com/user-attachments/assets/a81e724a-eabe-4ce4-8253-6e4bbada78cf)
 
 ## Функциональность
 
